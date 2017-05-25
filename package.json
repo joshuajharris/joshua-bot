@@ -1,7 +1,7 @@
 {
-  "name": "messenger-get-started",
+  "name": "JoshuaBot",
   "version": "1.0.0",
-  "description": "Get started example for Messenger Platform",
+  "description": "Personal Resume Bot",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fbsamples/messenger-platform-samples.git"
+    "url": "https://github.com/joshuajharris/joshua-bot.git"
   },
-  "author": "Facebook",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
